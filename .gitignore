@@ -1,0 +1,5 @@
+# ignore clean-sensitive-demo.iml
+clean-sensitive-demo.iml
+
+# ignore .idea/*
+.idea/*
